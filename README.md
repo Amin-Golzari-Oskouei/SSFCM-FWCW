@@ -1,5 +1,4 @@
-# SSFCM-FWCW
-SSFCM-FWCW: Semi-Supervised Fuzzy C-means Method based on Feature-weight and Cluster-weight Learning
+# SSFCM-FWCW: Semi-Supervised Fuzzy C-means Method based on Feature-weight and Cluster-weight Learning
 
 This repository includes the MATLAB implementation of the FKMAWCW algorithm presented in:
 Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "SSFCM-FWCW: Semi-Supervised Fuzzy C-means Method based on Feature-weight and Cluster-weight Learning," Applied Soft Computing (submitted).
