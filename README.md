@@ -1,8 +1,8 @@
-# SSFCM-FWCW: Semi-Supervised Fuzzy C-means Method based on Feature-weight and Cluster-weight Learning
+# Feature-weight and Cluster-weight learning in Fuzzy C-Means method for Semi-Supervised Clustering
 
 This repository includes the MATLAB implementation of the SSFCM-FWCW algorithm presented in:
 
-Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "SSFCM-FWCW: Semi-Supervised Fuzzy C-means Method based on Feature-weight and Cluster-weight Learning," Applied Soft Computing (submitted).
+Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "Feature-weight and Cluster-weight learning in Fuzzy C-Means method for Semi-Supervised Clustering," Applied Soft Computing (submitted).
 
 Comments are written for all steps of the algorithm for better understanding the code. Also, a demo is implemented for ease of running, which runs by importing the data and other necessary algorithm parameters.
 
@@ -10,7 +10,7 @@ Comments are written for all steps of the algorithm for better understanding the
 
 1) Please cite the following papers:
 
-[1] Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "SSFCM-FWCW: Semi-Supervised Fuzzy C-means Method based on Feature-weight and Cluster-weight Learning," Applied Soft Computing (submitted).
+[1] Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "Feature-weight and Cluster-weight learning in Fuzzy C-Means method for Semi-Supervised Clustering," Applied Soft Computing (submitted).
 
 [2] M. Hashemzadeh, A. Golzari Oskouei, and N. Farajzadeh, "New fuzzy C-means clustering method based on feature-weight and cluster-weight learning," Applied Soft Computing, vol. 78, pp. 324-345, 2019/05/01/ 2019, doi: https://doi.org/10.1016/j.asoc.2019.02.038.2
 
