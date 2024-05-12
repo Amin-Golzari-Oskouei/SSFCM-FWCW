@@ -10,7 +10,7 @@ Comments are written for all steps of the algorithm for better understanding the
 
 1) Please cite the following papers:
 
-[1] Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "Feature-weight and Cluster-weight learning in Fuzzy C-Means method for Semi-Supervised Clustering," Applied Soft Computing (submitted).
+[1] Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "Feature-weight and Cluster-weight learning in Fuzzy C-Means method for Semi-Supervised Clustering," Applied Soft Computing.
 
 [2] M. Hashemzadeh, A. Golzari Oskouei, and N. Farajzadeh, "New fuzzy C-means clustering method based on feature-weight and cluster-weight learning," Applied Soft Computing, vol. 78, pp. 324-345, 2019/05/01/ 2019, doi: https://doi.org/10.1016/j.asoc.2019.02.038.2
 
