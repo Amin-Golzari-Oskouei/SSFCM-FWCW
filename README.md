@@ -2,7 +2,7 @@
 
 This repository includes the MATLAB implementation of the SSFCM-FWCW algorithm presented in:
 
-Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "Feature-weight and Cluster-weight learning in Fuzzy C-Means method for Semi-Supervised Clustering," Applied Soft Computing (submitted).
+Amin Golzari Oskouei, Negin Samadi, and Jafar Tanha, "Feature-weight and Cluster-weight learning in Fuzzy C-Means method for Semi-Supervised Clustering," Applied Soft Computing.
 
 Comments are written for all steps of the algorithm for better understanding the code. Also, a demo is implemented for ease of running, which runs by importing the data and other necessary algorithm parameters.
 
